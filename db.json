@@ -20,13 +20,6 @@
       "tech": "Sara Wilson",
       "date": "2019-05-31T15:46:48.690Z",
       "id": 3
-    },
-    {
-      "id": 4,
-      "message": "Workstation 026 is up and running",
-      "attention": false,
-      "tech": "Sara Wilson",
-      "date": "2019-05-31T19:57:35.544Z"
     }
   ],
   "techs": [
@@ -44,6 +37,11 @@
       "id": 3,
       "firstName": "Sara",
       "lastName": "Wilson"
+    },
+    {
+      "firstName": "Adam",
+      "lastName": "Levin",
+      "id": 4
     }
   ]
 }
