@@ -15,7 +15,7 @@ import './App.css';
 
 const App = () => {
   useEffect(() => {
-    // Init Materialize JS
+    // Init Materialize Javascript
     M.AutoInit();
   });
   return (
