@@ -32,7 +32,7 @@
   "techs": [
     {
       "id": 1,
-      "firstName": "John",
+      "firstName": "John" ,
       "lastName": "Doe"
     },
     {
